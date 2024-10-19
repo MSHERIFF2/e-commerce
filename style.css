@@ -160,14 +160,14 @@ img{
     justify-content: space-evenly;
     background-color: rgb(148, 34, 224);
     color: white;
-    /* align-items: center; */
+   
  
     justify-items: center; 
     height: 10em;
     padding: .2em;
     font-size: small;
     max-width: 100%;
-    width: fit-content;
+    width: 100%;
     height: fit-content;
   
 }
